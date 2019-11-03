@@ -1,7 +1,7 @@
 # 个人简历 #
-![Image text](https://github.com/morken1997/resume/blob/master/sym.JPG)
+
 基本信息|&nbsp;
-:-|:-|:-
+:-|:-
 姓名 &nbsp; 商晏铭                  | 出生日期 &nbsp; 1997.04.25 
 民族 &nbsp; 汉族                    | 政治面貌 &nbsp; 共青团员
 电话 &nbsp; 18586129981             | 毕业院校 &nbsp; 嘉兴学院
@@ -27,3 +27,4 @@
 
 ### 自我评价 ###
 asd 
+![Image text](https://github.com/morken1997/resume/blob/master/sym.JPG)
