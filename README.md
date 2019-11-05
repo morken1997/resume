@@ -26,5 +26,6 @@
 大学英语四级（CET-4），听读能力良好。
 
 ### 自我评价 ###
-asd 
+
+踏实肯干。
 ![Image text](https://github.com/morken1997/resume/blob/master/sym.JPG)
